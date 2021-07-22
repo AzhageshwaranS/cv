@@ -1,11 +1,12 @@
 body {
   margin: 0;
   text-align: center;
-  background-color: #C8D8D4;
+  background-color: #CDF0EA;
+
   font-family: 'STIX Two Math', serif;
-
-
 }
+
+
 
   hr {
     border-style: none;
@@ -14,9 +15,7 @@ body {
     border-width: 5px;
     margin: 100px auto 100px auto;
   }
-  aboutme{
-    width:30%;
-  }
+
 
   a {
     padding: 20px;
@@ -31,6 +30,7 @@ body {
     margin-top: 0;
     font-family: 'Sacramento', cursive;
     font-size: 90px;
+    font-weight: bold;
     color: #66BFBF;
   }
 
@@ -59,8 +59,7 @@ body {
 
   .bottom-container {
 
-    padding-top: 50px;
-    padding-bottom: 30px;
+    padding:7% 15%;
   }
 
   .bottom {
@@ -76,7 +75,7 @@ body {
   }
 
   .image {
-    border-radius: 50%;
+    border-radius: 100%;
     width: 200px;
   }
 
@@ -110,6 +109,15 @@ body {
   .contact-me {
     padding-bottom: 100px;
   }
+  .instagramicon{
+    color:#e95950;
+  }
+   .whatsappicon{
+ color:#25d366;
+   }
+   .bottomp{
+     margin-top: 20px;
+   }
   .btn {
   background: #11CDD4;
   background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
